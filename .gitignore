@@ -1,0 +1,8 @@
+# Ignore all .log files
+**/*.log, 
+
+# Ignore .DS_Store files (used by macOS)
+.DS_Store
+
+# Ignore Jupyter Notebook checkpoints directly
+.ipynb_checkpoints
